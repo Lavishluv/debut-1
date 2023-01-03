@@ -1,5 +1,7 @@
 {
   "current": {
+    "color_button": "#c99da3",
+    "color_small_button_text_border": "#ffffff",
     "sections": {
       "header": {
         "type": "header",
