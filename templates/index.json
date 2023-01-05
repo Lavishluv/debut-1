@@ -14,18 +14,20 @@
         "button_link": "shopify:\/\/products\/eye-bag-massage-patch-care-apparatus"
       }
     },
+    "cae98f0f-c3fa-4989-8ed3-c269a0c13d89": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/eyepatch.jpg",
+        "layout": "left",
+        "title": "NO MORE DARK CIRCLES",
+        "text": "<p>Our EMS massaging eye patches use FDA approved red light therapy to fade under eye bags and dark circles with minimal effort in the comfort of your home!<\/p>",
+        "button_label": "Shop EMS Patch",
+        "button_link": "shopify:\/\/products\/eye-bag-massage-patch-care-apparatus"
+      }
+    },
     "image-bar": {
       "type": "image-bar",
       "blocks": {
-        "image-bar-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/eyepatch.jpg",
-            "alignment": "center",
-            "link": "",
-            "cta_label": ""
-          }
-        },
         "image-bar-1": {
           "type": "image",
           "settings": {
@@ -46,7 +48,6 @@
         }
       },
       "block_order": [
-        "image-bar-0",
         "image-bar-1",
         "image-bar-2"
       ],
@@ -91,6 +92,7 @@
   },
   "order": [
     "hero-1",
+    "cae98f0f-c3fa-4989-8ed3-c269a0c13d89",
     "image-bar",
     "quotes"
   ]
