@@ -3,7 +3,7 @@
     "hero-1": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/woman-side-profile-looking-up.jpg",
+        "image": "shopify:\/\/shop_images\/312195319_1546395669125158_3532565581581947560_n.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
         "hero_size": "large",
@@ -20,6 +20,7 @@
         "image-bar-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/eyepatch.jpg",
             "alignment": "center",
             "link": "",
             "cta_label": ""
@@ -28,6 +29,7 @@
         "image-bar-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/eyepatch2.jpg",
             "alignment": "center",
             "link": "",
             "cta_label": ""
@@ -65,15 +67,15 @@
         "quotes-1": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p>I was skeptical at first but after just two weeks of using the eye patches for 10 minuites a day there is a huge difference in my dark circles, couldnt be happier with the purchase!<\/p>",
+            "author": "Caitlyn S."
           }
         },
         "quotes-2": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p>Finally a product for dark circles that really works, would reccomend these patches to anyone with this problem in a heart beat. Deffinetly worth the purchase.<\/p>",
+            "author": "Kayla A."
           }
         }
       },
