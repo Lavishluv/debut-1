@@ -2,6 +2,9 @@
   "current": {
     "color_button": "#c99da3",
     "color_small_button_text_border": "#ffffff",
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
     "sections": {
       "header": {
         "type": "header",
