@@ -1,10 +1,12 @@
 {
   "current": {
+    "color_sale_text": "#c99da3",
     "color_button": "#c99da3",
     "color_small_button_text_border": "#ffffff",
     "share_facebook": false,
     "share_twitter": false,
     "share_pinterest": false,
+    "enable_ajax": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/Lavish_Luv_Checkout.png",
     "checkout_accent_color": "#c99da3",
     "checkout_button_color": "#c99da3",

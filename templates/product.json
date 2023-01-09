@@ -53,7 +53,7 @@
       "settings": {
         "show_quantity_selector": false,
         "show_vendor": false,
-        "enable_payment_button": true,
+        "enable_payment_button": false,
         "show_share_buttons": false,
         "media_size": "medium",
         "enable_image_zoom": true,
