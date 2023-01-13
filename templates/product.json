@@ -73,9 +73,9 @@
           "settings": {
             "only_photos": false,
             "aggregated": false,
-            "limit": 20,
+            "limit": 4,
             "hide_thumbnails": false,
-            "maxwidth": 1080
+            "maxwidth": 1120
           }
         }
       },
@@ -99,7 +99,7 @@
             "reviewerNameColor": "#000000",
             "textColor": "#000000",
             "starsColor": "",
-            "quotesIconColor": "#EAEAEA",
+            "quotesIconColor": "#eaeaea",
             "arrows_iconColor": "#000000",
             "arrows_hideOnMobile": true,
             "pagination_active": true,
