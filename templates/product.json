@@ -84,12 +84,45 @@
       ],
       "settings": {
       }
+    },
+    "16735701716df667c3": {
+      "type": "apps",
+      "blocks": {
+        "04e59fcb-6dde-4e45-9d32-bae4a3b0c3a7": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-testimonial-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1100,
+            "desktopFontSize": 32,
+            "mobileFontSize": 20,
+            "maxNumberOfCharacters": 100,
+            "quoteMarkIcon": "style-1",
+            "reviewerNameColor": "#000000",
+            "textColor": "#000000",
+            "starsColor": "",
+            "quotesIconColor": "#EAEAEA",
+            "arrows_iconColor": "#000000",
+            "arrows_hideOnMobile": true,
+            "pagination_active": true,
+            "pagination_selectedDotColor": "#000000",
+            "pagination_dotColor": "#000000",
+            "autoplay_active": true,
+            "autoplay_duration": 2,
+            "productIds": "eye-bag-massage-patch-care-apparatus"
+          }
+        }
+      },
+      "block_order": [
+        "04e59fcb-6dde-4e45-9d32-bae4a3b0c3a7"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "product-recommendations",
     "main",
     "product-back-to-collection",
-    "loox-product-reviews-app-section"
+    "loox-product-reviews-app-section",
+    "16735701716df667c3"
   ]
 }
