@@ -2,6 +2,7 @@
   "sections": {
     "hero-1": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/312195319_1546395669125158_3532565581581947560_n.jpg",
         "alignment": "center",
@@ -16,6 +17,7 @@
     },
     "cae98f0f-c3fa-4989-8ed3-c269a0c13d89": {
       "type": "feature-row",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/eyepatch.jpg",
         "layout": "left",
