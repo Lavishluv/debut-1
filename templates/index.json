@@ -27,36 +27,6 @@
         "button_link": "shopify:\/\/products\/lavish-luv-ems-massaging-eye-patch"
       }
     },
-    "image-bar": {
-      "type": "image-bar",
-      "blocks": {
-        "image-bar-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/woman-side-profile-looking-up.jpg",
-            "alignment": "center",
-            "link": "",
-            "cta_label": ""
-          }
-        },
-        "image-bar-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "alignment": "center",
-            "link": "",
-            "cta_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "image-bar-1",
-        "image-bar-2"
-      ],
-      "settings": {
-        "section_height": "medium"
-      }
-    },
     "quotes": {
       "type": "quotes",
       "blocks": {
@@ -90,12 +60,57 @@
       "settings": {
         "title": ""
       }
+    },
+    "image-bar": {
+      "type": "image-bar",
+      "blocks": {
+        "image-bar-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-side-profile-looking-up.jpg",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
+          }
+        },
+        "image-bar-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shiny-lipstick-in-black-and-white.jpg",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image-bar-1",
+        "image-bar-2"
+      ],
+      "settings": {
+        "section_height": "medium"
+      }
+    },
+    "ac7ccbce-0d4d-424f-b151-0f975189cb8e": {
+      "type": "featured-product",
+      "settings": {
+        "featured_product": "eyebrow-mold-set-makeup-powder",
+        "show_quantity_selector": false,
+        "show_vendor": false,
+        "enable_payment_button": true,
+        "show_share_buttons": true,
+        "media_size": "medium",
+        "enable_image_zoom": true,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
     "hero-1",
     "cae98f0f-c3fa-4989-8ed3-c269a0c13d89",
+    "quotes",
     "image-bar",
-    "quotes"
+    "ac7ccbce-0d4d-424f-b151-0f975189cb8e"
   ]
 }
