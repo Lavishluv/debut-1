@@ -75,7 +75,7 @@
             "aggregated": false,
             "limit": 4,
             "hide_thumbnails": false,
-            "maxwidth": 1120
+            "maxwidth": 640
           }
         }
       },
